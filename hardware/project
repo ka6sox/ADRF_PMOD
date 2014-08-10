@@ -1,0 +1,4 @@
+schematics ardf_pg1.sch
+output-name codec
+elements-dir ../../pcb-elements/
+skip-m4
