@@ -1193,8 +1193,8 @@ class=DISCRETE
 {
 T 56300 45500 5 10 0 0 270 0 1
 device=RESISTOR
-T 56200 45600 5 10 1 1 270 0 1
-refdes=R105
+T 56200 45500 5 10 1 1 270 0 1
+refdes=R5
 T 55700 45600 5 10 1 1 270 0 1
 value=1.0K
 }
@@ -1242,8 +1242,8 @@ class=DISCRETE
 T 54400 47300 5 10 0 0 0 0 1
 device=RESISTOR
 T 54300 47200 5 10 1 1 0 0 1
-refdes=R107
-T 54900 47200 5 10 1 1 0 0 1
+refdes=R9
+T 54700 47200 5 10 1 1 0 0 1
 value=30
 }
 C 48300 45600 1 0 0 EMBEDDEDresistor-1.sym
@@ -1290,7 +1290,7 @@ class=DISCRETE
 T 48600 46000 5 10 0 0 0 0 1
 device=RESISTOR
 T 48500 45900 5 10 1 1 0 0 1
-refdes=R107
+refdes=R7
 T 48600 45400 5 10 1 1 0 0 1
 value=5.6k
 }
@@ -1338,7 +1338,7 @@ class=DISCRETE
 T 48600 45300 5 10 0 0 270 0 1
 device=RESISTOR
 T 48500 45300 5 10 1 1 270 0 1
-refdes=R108
+refdes=R8
 T 48000 45300 5 10 1 1 270 0 1
 value=10k
 }
@@ -1386,7 +1386,7 @@ class=DISCRETE
 T 46000 46700 5 10 0 0 270 0 1
 device=RESISTOR
 T 45900 46800 5 10 1 1 270 0 1
-refdes=R101
+refdes=R1
 T 45400 46700 5 10 1 1 270 0 1
 value=10k
 }
@@ -1433,8 +1433,8 @@ class=DISCRETE
 {
 T 51400 50400 5 10 0 0 270 0 1
 device=RESISTOR
-T 51300 50500 5 10 1 1 270 0 1
-refdes=R104
+T 51300 50400 5 10 1 1 270 0 1
+refdes=R4
 T 50800 50400 5 10 1 1 270 0 1
 value=10K
 }
@@ -1482,7 +1482,7 @@ class=DISCRETE
 T 49200 49700 5 10 0 0 270 0 1
 device=RESISTOR
 T 49100 49800 5 10 1 1 270 0 1
-refdes=R103
+refdes=R3
 }
 C 47200 48300 1 0 0 EMBEDDEDresistor-1.sym
 [
@@ -1528,7 +1528,7 @@ class=DISCRETE
 T 47500 48700 5 10 0 0 0 0 1
 device=RESISTOR
 T 47400 48600 5 10 1 1 0 0 1
-refdes=R102
+refdes=R2
 }
 C 51200 43100 1 270 0 EMBEDDEDresistor-1.sym
 [
@@ -1574,7 +1574,7 @@ class=DISCRETE
 T 51600 42800 5 10 0 0 270 0 1
 device=RESISTOR
 T 51500 42900 5 10 1 1 270 0 1
-refdes=R106
+refdes=R6
 T 51000 42900 5 10 1 1 270 0 1
 value=50.0
 }
@@ -1806,7 +1806,7 @@ T 49200 48200 9 10 1 0 0 0 1
 T 49200 48600 5 10 0 0 0 0 1
 device=2N2222
 T 49200 48400 5 10 1 1 0 0 1
-refdes=Q?
+refdes=Q1
 }
 N 40600 50200 40600 50700 4
 N 40600 50700 47200 50700 4
@@ -1907,7 +1907,7 @@ symversion=0.1
 T 53900 47500 5 10 0 0 0 0 1
 footprint=1206
 T 53900 48100 5 10 1 1 0 0 1
-refdes=C104
+refdes=C4
 T 53900 47900 5 10 1 1 0 0 1
 value=1000pF
 }
@@ -1958,7 +1958,7 @@ symversion=0.1
 T 52500 42500 5 10 0 0 0 0 1
 footprint=1206
 T 52500 43100 5 10 1 1 0 0 1
-refdes=C105
+refdes=C5
 T 52500 42900 5 10 1 1 0 0 1
 value=1000pf
 }
@@ -2080,7 +2080,7 @@ refdes=T?
 ]
 {
 T 55200 50000 5 10 1 1 0 6 1
-refdes=T102
+refdes=T1
 T 55200 50400 5 10 0 0 0 6 1
 device=ADT8-1T
 T 55200 50600 5 10 0 0 0 6 1
@@ -2136,7 +2136,7 @@ symversion=0.1
 T 46400 42500 5 10 0 0 0 0 1
 footprint=1206
 T 46300 43100 5 10 1 1 0 0 1
-refdes=C106
+refdes=C6
 T 46300 42700 5 10 1 1 0 0 1
 value=0.1uF
 }
@@ -2207,7 +2207,7 @@ symversion=0.1
 T 47200 42500 5 10 0 0 0 0 1
 footprint=1206
 T 47100 43100 5 10 1 1 0 0 1
-refdes=C107
+refdes=C7
 T 47100 42700 5 10 1 1 0 0 1
 value=0.1uF
 }
@@ -2283,7 +2283,7 @@ symversion=0.1
 T 48800 42500 5 10 0 0 0 0 1
 footprint=1206
 T 48700 43100 5 10 1 1 0 0 1
-refdes=C109
+refdes=C9
 T 48700 42700 5 10 1 1 0 0 1
 value=0.1uF
 }
@@ -2374,7 +2374,7 @@ symversion=0.1
 T 48000 42500 5 10 0 0 0 0 1
 footprint=1206
 T 47900 43100 5 10 1 1 0 0 1
-refdes=C108
+refdes=C8
 T 47900 42700 5 10 1 1 0 0 1
 value=0.1uF
 }
@@ -2425,7 +2425,7 @@ symversion=0.1
 T 49700 42500 5 10 0 0 0 0 1
 footprint=1206
 T 49600 43100 5 10 1 1 0 0 1
-refdes=C110
+refdes=C10
 T 49600 42700 5 10 1 1 0 0 1
 value=0.1uF
 }
@@ -2499,7 +2499,7 @@ symversion=0.1
 T 50500 42500 5 10 0 0 0 0 1
 footprint=1206
 T 50400 43100 5 10 1 1 0 0 1
-refdes=C111
+refdes=C11
 T 50400 42700 5 10 1 1 0 0 1
 value=0.1uF
 }
